@@ -1,7 +1,5 @@
 # Handwritten Digit Recognition Using PCA and K-Means Clustering
 
-![Project Visualization](visualization.png)
-
 ## Overview
 
 This project demonstrates a machine learning pipeline to recognize handwritten digits from the MNIST dataset using **Principal Component Analysis (PCA)** for dimensionality reduction and **K-Means Clustering** for grouping similar digits. The project also incorporates **t-SNE** for visualizing the clusters in 2D space.
